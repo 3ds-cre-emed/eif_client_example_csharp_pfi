@@ -1,0 +1,2 @@
+# daso_emed_cre_eif_client_example_csharp_pfi
+Example of Enterprise Integration Framework
