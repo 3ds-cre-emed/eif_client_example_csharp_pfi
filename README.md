@@ -1,5 +1,11 @@
 # Enterprise Integration Framework (EIFClient/PFI-OC)
-Example of Enterprise Integration Framework
+  - Configure your platform with PFI-OC role (Event publishing),
+  - Create an agent for client connection,
+  - Keep the informations which are agent id, agent password, messageBus url,
+  - Clone this repository,
+  - Go to App Environment then fill your agent and platform informations,
+  - Check NuGet packages,
+  - Start to listen your platform.
 
 # Example Result
 
