@@ -1,4 +1,4 @@
-# Enterprise Integration Framework (EIFClient/PFI-OC)
+# Enterprise Integration Framework EXAMPLE (EIFClient/PFI-OC)
   - Configure your platform with PFI-OC role (Event publishing),
   - Create an agent for client connection,
   - Keep the informations which are agent id, agent password, messageBus url,
